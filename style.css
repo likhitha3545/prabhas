@@ -1,0 +1,26 @@
+.box {
+    background-color: rgb(5, 5, 85);
+    color: bisque;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding:50px;
+    margin: 50px;
+    border-radius:30px ;
+    text-align: center;
+}
+.prabhs
+{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    
+}
+.btn
+{
+    padding: 10px 30px;
+    border-radius: 12px 30px;
+    font-size: medium;
+    font-weight: bolder;
+    background-color:rgb(93, 93, 197);
+    color:whitesmoke;
+    cursor: pointer;
+}
